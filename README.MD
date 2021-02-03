@@ -1,4 +1,4 @@
-基于hoshinobot的明日方舟抽卡插件
+适用于hoshinobot的明日方舟抽卡插件
 # 使用说明 #
 （和绝大部分hoshinobot插件使用方法一样）  
 
